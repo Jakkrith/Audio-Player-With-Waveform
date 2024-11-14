@@ -2,7 +2,7 @@
 
 /***************************************************************************/
 //
-// Usage: https://labs.siamecohost.com/audio-player/audio-player.php?sound=track1.mp3
+// Usage: https://yourdomain.com/audio-player/?sound=track1.mp3
 // Upload file.mp3 into folder:  audio-player/audio
 // Credit: https://github.com/livebloggerofficial/Audio-Player-With-Waveform
 //
